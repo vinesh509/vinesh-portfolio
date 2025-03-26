@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import profileImage from '../public/IMG_5633.jpg'; // Import image
+import resumePDF from '../public/resume.pdf'; // Import PDF
 
 const Home = () => {
   return (
@@ -24,7 +26,7 @@ const Home = () => {
         <div className="right-column">
           <div className="image-placeholder">
             <img 
-              src="/IMG_5633.jpg" 
+              src={profileImage} // Use imported image
               alt="Vinesh Vangapandu"
               className="profile-photo"
             />
@@ -32,7 +34,7 @@ const Home = () => {
           <h2 className="job-title">Data Engineer | ETL Developer</h2>
           <a 
             className="resume-button"
-            href="/resume.pdf" 
+            href={resumePDF} // Use imported PDF
             download="VineshResume.pdf"
           >
             DOWNLOAD RESUME
