@@ -24,7 +24,7 @@ const Home = () => {
         <div className="right-column">
           <div className="image-placeholder">
             <img 
-              src="/IMG_5633.jpg" 
+              src={`${import.meta.env.BASE_URL}IMG_5633.jpg`}
               alt="Vinesh Vangapandu"
               className="profile-photo"
             />
