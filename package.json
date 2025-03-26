@@ -1,6 +1,6 @@
 {
-  "name": "port",
-  "private": true,
+  "name": "portfolio-web",
+  "homepage": "https://vinesh509.github.io/vinesh-portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,9 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b main"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scroll": "^1.9.3"
