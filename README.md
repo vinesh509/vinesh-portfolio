@@ -26,21 +26,54 @@ A modern, high-performance portfolio website built with **React + Vite**. Showca
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/react-vite-portfolio.git
+   ```
+2. Navigate to project directory:
+   ```bash
+   cd vinesh-portfolio
+   ```
+3.Install dependencies and start server:
+  ```bash
+  npm install
+  npm run dev
+```
 
-<<<<<<< HEAD
-# React + Vite
+## 🔧 Build Commands
+Command	Description: 
+``` bash
+npm run dev //Starts local development server
+npm run build	//Creates production-ready build
+npm run preview	//Locally preview production build
+npm run lint	//Runs ESLint for code quality check
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎨 Customization
 
-Currently, two official plugins are available:
+To personalize this portfolio:
+- Update your personal info in src/data/personal.js
+- Replace images in src/assets/images/
+- Modify colors in tailwind.config.js
+- Update project data in src/data/projects.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployment
 
-## Expanding the ESLint configuration
+Deploy using:
+ - *Vercel*
+ - *GitHub Pages*
+ - *Firebase Hosting*
+ - *Netlify*
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Vinesh.github.io
-Vinesh Portfolio Web
->>>>>>> b4a24355971ab793d008a225c0486e7d678b0294
+## 📂 Project Structure
+   ```bash
+
+src/
+├── assets/           # Static assets
+├── components/       # Reusable components
+├── data/            # Project/personal data
+├── hooks/           # Custom React hooks
+├── pages/           # Main page components
+├── styles/          # Global styles
+├── App.jsx          # Root component
+└── main.jsx         # Entry point
+```
+## License & Contact:
+
