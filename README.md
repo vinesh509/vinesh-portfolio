@@ -1,6 +1,6 @@
-# 🌟 React Vite Portfolio
+# 🌟 React+Vite Web Portfolio
 
-A modern, high-performance portfolio website built with **React + Vite**. Showcases my projects, skills, and professional experience with smooth animations and responsive design.
+A modern, portfolio website built with **React + Vite**. Showcases my projects, skills, and professional experience with smooth animations and responsive design.
 
 ## 🚀 Features
 
@@ -76,4 +76,7 @@ src/
 └── main.jsx         # Entry point
 ```
 ## License & Contact:
-
+- *This project is licensed under the MIT License. See LICENSE for details.*
+- *Developed by: Vinesh Vangapandu*
+- *📧 Email: vinesh509@gmail.com*
+- *🔗 LinkedIn: www.linkedin.com/in/vinesh-vangapandu-783590160*
