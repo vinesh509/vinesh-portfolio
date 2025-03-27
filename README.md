@@ -25,7 +25,7 @@ A modern, portfolio website built with **React + Vite**. Showcases my projects, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-vite-portfolio.git
+   git clone https://github.com/vinesh509/vinesh-portfolio.gi
    ```
 2. Navigate to project directory:
    ```bash
