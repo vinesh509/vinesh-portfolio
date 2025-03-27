@@ -1,3 +1,32 @@
+# 🌟 React Vite Portfolio
+
+A modern, high-performance portfolio website built with **React + Vite**. Showcases my projects, skills, and professional experience with smooth animations and responsive design.
+
+## 🚀 Features
+
+- ⚡ **Blazing Fast** (Vite-powered)
+- 📱 **Fully Responsive** (Mobile, Tablet & Desktop)
+- ✨ **Smooth Animations** (Framer Motion)
+- 📬 **Functional Contact Form** (EmailJS integration)
+- 🛠️ **Project Filtering System**
+
+## 🛠️ Tech Stack
+
+| Category       | Technologies Used |
+|---------------|-------------------|
+| **Framework** | React.js          |
+| **Bundler**   | Vite              |
+| **Styling**   | Tailwind CSS      |
+| **Animations**| Framer Motion     |
+| **Icons**     | React Icons       |
+| **Form**      | EmailJS           |
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/react-vite-portfolio.git
+
 <<<<<<< HEAD
 # React + Vite
 
