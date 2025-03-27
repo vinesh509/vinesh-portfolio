@@ -20,13 +20,13 @@ const Projects = () => {
   const certificates = [
     { 
       title: 'Python',
-      image: '/Certificates/PythonCertificate.png',
-      fullImagePath: '/Certificates/PythonCertificate.png' 
+      image: `${import.meta.env.BASE_URL}Certificates/PythonCertificate.png`,
+      fullImagePath: `${import.meta.env.BASE_URL}Certificates/PythonCertificate.png`
     },
     { 
       title: 'Marchine Learning',
-      image: '/Certificates/MLCertificate.png',
-      fullImagePath: '/Certificates/MLCertificate.png'
+      image: `${import.meta.env.BASE_URL}Certificates/MLCertificate.png`,
+      fullImagePath: `${import.meta.env.BASE_URL}Certificates/MLCertificate.png`
     }
   ];
   
