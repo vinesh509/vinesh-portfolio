@@ -32,7 +32,7 @@ const Home = () => {
           <h2 className="job-title">Data Engineer | ETL Developer</h2>
           <a 
             className="resume-button"
-            href="/resume.pdf" 
+            href="/VineshResume.pdf" 
             download="VineshResume.pdf"
           >
             DOWNLOAD RESUME
