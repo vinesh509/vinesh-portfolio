@@ -1,14 +1,12 @@
 # 🌟 React+Vite Web Portfolio
 
-A modern, portfolio website built with **React + Vite**. Showcases my projects, skills, and professional experience with smooth animations and responsive design.
+A modern, portfolio website built with **React + Vite**. Showcasing my About, projects, skills, and professional experience with smooth animations and responsive design.
 
 ## 🚀 Features
 
 - ⚡ **Blazing Fast** (Vite-powered)
 - 📱 **Fully Responsive** (Mobile, Tablet & Desktop)
 - ✨ **Smooth Animations** (Framer Motion)
-- 📬 **Functional Contact Form** (EmailJS integration)
-- 🛠️ **Project Filtering System**
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +17,6 @@ A modern, portfolio website built with **React + Vite**. Showcases my projects, 
 | **Styling**   | Tailwind CSS      |
 | **Animations**| Framer Motion     |
 | **Icons**     | React Icons       |
-| **Form**      | EmailJS           |
 
 ## 📦 Installation
 
