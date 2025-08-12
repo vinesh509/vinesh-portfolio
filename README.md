@@ -22,7 +22,7 @@ A modern, portfolio website built with **React + Vite**. Showcasing my About, pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vinesh509/vinesh-portfolio.gi
+   git clone https://github.com/vinesh509/vinesh-portfolio.git
    ```
 2. Navigate to project directory:
    ```bash
